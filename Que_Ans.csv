@@ -1,0 +1,71 @@
+Topic,Question,Answer,Options,DifficultyFromQuestioner
+Python,What is the purpose of 'len()'?,Length,a) Length b) List c) Loop d) Library,Easy
+Python,Explain a 'list' in Python.,Collection,a) Function b) Collection c) Condition d) Variable,Easy
+Python,What does the 'print()' function do?,Display,a) Input b) Output c) Read d) Write,Easy
+Python,What does 'if' statement do?,Condition,a) Loop b) Function c) Input d) Condition,Intermediate
+Python,What is a 'tuple' in Python?,Immutable,a) Mutable b) Immutable c) List d) Loop,Intermediate
+Python,What is the purpose of 'range()' function?,Sequence,a) Print b) Loop c) Input d) Sequence,Intermediate
+Python,What is a 'dictionary' in Python?,Key-value,a) List b) Tuple c) Dictionary d) Set,Intermediate
+Python,What is 'OOP'?,Paradigm,a) Object b) Oriented c) Programming d) Paradigm,Advanced
+Python,What is 'lambda' function?,Anonymous,a) Named b) Anonymous c) Recursive d) Built-in,Advanced
+Python,What is 'PEP 8'?,Style,a) Python b) Enhancement c) Proposal d) Style,Advanced
+HTML,What does HTML stand for?,Hypertext,a) High Text Markup Language b) Hypertext Markup Language c) Hyper Transfer Markup Language d) Hyperlink and Text Markup Language,Easy
+HTML,What is an 'element' in HTML?,Tag,a) Link b) Tag c) Attribute d) Property,Easy
+HTML,What is the purpose of an 'anchor' tag?,Link,a) Image b) Paragraph c) Link d) Heading,Intermediate
+HTML,What does 'form' tag do?,Input,a) Submit b) Input c) Display d) Style,Intermediate
+HTML,What does the 'head' section contain?,Metadata,a) Data b) Content c) Metadata d) Styles,Intermediate
+HTML,What does the 'alt' attribute provide?,Description,a) Alternative b) Alternative text c) Alternate d) Description,Intermediate
+HTML,What is the 'doctype' declaration for HTML5?,<!DOCTYPE html>,a) <!HTML> b) <!DOCTYPE html5> c) <!html> d) <!DOCTYPE html>,Intermediate
+HTML,What does 'CSS' stand for?,Stylesheet,a) Cascading Style System b) Computer Styling System c) Creative Styling Sheet d) Cascading Stylesheet,Intermediate
+HTML,Which tag defines an unordered list?,<ul>,a) <ol> b) <list> c) <ul> d) <unordered>,Intermediate
+HTML,Which tag creates a hyperlink?,<a>,a) <link> b) <a> c) <hlink> d) <hyper>,Intermediate
+API,What is 'authentication' in APIs?,Security,a) Authorization b) Verification c) Security d) Access,Advanced
+API,Which HTTP method is used for updating data?,PUT,a) POST b) GET c) PUT d) DELETE,Intermediate
+API,What is the purpose of 'rate limiting' in APIs?,Throttling,a) Speeding up b) Delaying c) Throttling d) Canceling,Intermediate
+API,What does 'JSON Web Token (JWT)' provide?,Authorization,a) Data storage b) Authentication c) Security d) Authorization,Advanced
+API,What is the main advantage of 'RESTful' APIs?,Scalability,a) Complexity b) Scalability c) Security d) Accessibility,Advanced
+Machine Learning,What is 'supervised learning'?,Labels,a) Unlabeled data b) Labels c) Clusters d) Patterns,Intermediate
+Machine Learning,Which algorithm is used for 'regression'?,Linear,a) Decision Tree b) K-Means c) Linear Regression d) SVM,Intermediate
+Machine Learning,What is 'overfitting'?,Complex,a) Underfitting b) Complex c) Generalization d) Accuracy,Intermediate
+Machine Learning,Which evaluation metric is used for 'classification'?,F1-score,a) MAE b) RMSE c) F1-score d) R-squared,Intermediate
+Machine Learning,What is the 'bias-variance trade-off'?,Model,a) Feature selection b) Model complexity c) Training time d) Prediction accuracy,Advanced
+Data Science,What is 'data preprocessing'?,Cleaning,a) Data transformation b) Cleaning c) Collection d) Analysis,Intermediate
+Data Science,Which step comes after 'exploratory data analysis (EDA)'?,Feature,a) Data visualization b) Modeling c) Feature engineering d) Data cleaning,Intermediate
+Data Science,What is 'cross-validation' used for?,Evaluation,a) Hyperparameter tuning b) Model selection c) Evaluation d) Training,Intermediate
+Data Science,What is 'dimensionality reduction'?,Features,a) Increasing data size b) Reducing model complexity c) Adding features d) Reducing features,Intermediate
+Data Science,What is 'ensemble learning'?,Combining,a) Individual learning b) Combining c) Supervised learning d) Unsupervised learning,Advanced
+NLP,What does 'Named Entity Recognition (NER)' identify?,Entities,a) Parts of speech b) Sentiments c) Entities d) Grammar errors,Intermediate
+NLP,What is 'bag-of-words' in NLP?,Representation,a) Tokenization b) Parsing c) Representation d) Classification,Intermediate
+NLP,"Which NLP task involves determining the subject, object, and action in a sentence?",Dependency parsing,a) Sentiment analysis b) Named Entity Recognition c) Dependency parsing d) Part-of-speech tagging,Intermediate
+NLP,What is 'stemming'?,Base,a) Reducing word frequency b) Synonym replacement c) Base form d) Tokenization,Intermediate
+NLP,Which algorithm is often used in word embeddings?,Word2Vec,a) TF-IDF b) Word2Vec c) Naive Bayes d) Random Forest,Intermediate
+Databases,What is a 'database schema'?,Structure,a) Data type b) Structure c) Query d) Index,Intermediate
+Databases,What is the purpose of 'SQL'?,Queries,a) Data storage b) Visualization c) Analytics d) Queries,Intermediate
+Databases,Which operation retrieves data from a database?,SELECT,a) DELETE b) UPDATE c) INSERT d) SELECT,Intermediate
+Databases,What does 'ACID' stand for in the context of databases?,Properties,a) Data types b) Operations c) Properties d) Transactions,Intermediate
+Databases,What is a 'primary key' in a database table?,Unique,a) Index b) Foreign key c) Unique identifier d) Aggregate,Intermediate
+API,What is 'CORS' in the context of APIs?,Origin,a) Cross-Origin Resource Sharing b) Communication Over Reliable System c) Centralized Origin Resource Sharing d) Cross-Object Relation Service,Intermediate
+API,What is an 'API key' used for?,Authentication,a) Data encryption b) Data transmission c) Authentication d) Authorization,Intermediate
+API,What does 'serialization' mean in APIs?,Data,a) Data storage b) Data transmission c) Data transformation d) Data processing,Intermediate
+API,Which status code indicates 'resource not found'?,404,a) 200 b) 201 c) 404 d) 400,Intermediate
+API,What is an 'API documentation' used for?,Reference,a) API testing b) API design c) API usage d) API_Reference,Intermediate
+Machine Learning,What is 'feature scaling' in machine learning?,Normalization,a) Feature transformation b) Feature engineering c) Feature scaling d) Feature selection,Intermediate
+Machine Learning,What is 'cross-validation' used for?,Generalization,a) Model training b) Hyperparameter tuning c) Generalization d) Overfitting,Intermediate
+Machine Learning,What is 'ensemble learning'?,Combining,a) Individual learning b) Combining c) Supervised learning d) Unsupervised learning,Intermediate
+Machine Learning,Which algorithm is commonly used for 'clustering'?,K-Means,a) Linear Regression b) Decision Tree c) K-Means d) Naive Bayes,Intermediate
+Machine Learning,What is 'precision' in the context of classification?,TRUE,a) True Positive Rate b) True Negative Rate c) False Positive Rate d) False Negative Rate,Intermediate
+Data Science,What is 'data wrangling'?,Cleaning,a) Data analysis b) Data visualization c) Data transformation d) Data cleaning,Intermediate
+Data Science,What is the 'curse of dimensionality'?,High,a) Increased model complexity b) High-dimensional data c) Low-dimensional data d) Model underfitting,Intermediate
+Data Science,What is 'hyperparameter tuning'?,Optimization,a) Model selection b) Feature extraction c) Hyperparameter optimization d) Data preprocessing,Intermediate
+Data Science,What is 'bias' in data analysis?,Systematic,a) Random error b) Sampling error c) Systematic error d) Measurement error,Intermediate
+Data Science,What does 'correlation coefficient' measure?,Relationship,a) Causation b) Variability c) Relationship strength d) Predictability,Intermediate
+NLP,What is 'text classification' in NLP?,Labeling,a) Text analysis b) Text clustering c) Text segmentation d) Text labeling,Intermediate
+NLP,What is 'lemmatization'?,Base,a) Removing stop words b) Stemming c) Base form d) Parsing,Intermediate
+NLP,Which technique is used for 'sentiment analysis'?,Classification,a) Clustering b) Regression c) Classification d) Feature extraction,Intermediate
+NLP,What is 'Named Entity Recognition (NER)' used for?,Entities,a) Parts of speech b) Sentiments c) Entities d) Grammar errors,Intermediate
+NLP,Which library is often used for 'word embeddings'?,Word2Vec,a) NLTK b) SpaCy c) Word2Vec d) Gensim,Intermediate
+Databases,What is a 'foreign key' in a database table?,Relationship,a) Primary key b) Unique key c) Foreign key d) Index,Intermediate
+Databases,Which type of database is optimized for read-heavy operations?,Data warehousing,a) Relational b) NoSQL c) Graph d) Data warehousing,Intermediate
+Databases,What does 'normalization' ensure in a database?,Data integrity,a) Data consistency b) Data security c) Data integrity d) Data availability,Intermediate
+Databases,What is the purpose of 'indexing' in a database?,Efficiency,a) Data organization b) Data validation c) Data integrity d) Query efficiency,Intermediate
+Databases,Which SQL command is used to modify existing data?,UPDATE,a) INSERT b) DELETE c) UPDATE d) ALTER,Intermediate
